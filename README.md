@@ -1,2 +1,3 @@
 # JAVA-MINI-TASKS
 Here is list of all daily tasks done using java.
+I am trying to get ready with OOPS.
