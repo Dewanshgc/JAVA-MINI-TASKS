@@ -40,7 +40,7 @@ class dk{
 			for(int j=0;j<b[i].length;j++){
 				System.out.print(b[i][j]+" ");
 			}
-			System.out.println();
+			System.out.println( );
 		}
 	}
 }
