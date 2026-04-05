@@ -13,11 +13,11 @@ class dk{
 			System.out.print("Enter the index value at "+i+" : ");
 			a[i]=sc.nextInt();
 		}
-		System.out.print("{ ");
+		System.out.print("{");
 		for(int i=0;i<b;i++){
 			System.out.print(a[i]+"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 		}
-		System.out.print(" }");
+		System.out.print("}");
 		
 	}
 }
