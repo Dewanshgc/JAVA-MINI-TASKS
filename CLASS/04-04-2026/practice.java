@@ -4,6 +4,8 @@ class dk{
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the rows data : ");
         int a=sc.nextInt();
-    
+        for(int i=0;i<a;u++){
+            System.out.print(i);
+        }
     }
 }
